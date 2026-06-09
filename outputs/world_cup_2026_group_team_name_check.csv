@@ -1,0 +1,49 @@
+group,official_name,model_name,elo_found,elo
+Group A,Mexico,Mexico,True,1926.4939769316013
+Group A,South Africa,South Africa,True,1662.928252791571
+Group A,Korea Republic,South Korea,True,1864.3391502998024
+Group A,Czechia,Czech Republic,True,1783.6111434414663
+Group B,Canada,Canada,True,1861.3391471489235
+Group B,Bosnia and Herzegovina,Bosnia and Herzegovina,True,1647.662404335529
+Group B,Qatar,Qatar,True,1607.4501370282674
+Group B,Switzerland,Switzerland,True,1901.8432988854631
+Group C,Brazil,Brazil,True,1998.661837806284
+Group C,Haiti,Haiti,True,1655.0734076026306
+Group C,Morocco,Morocco,True,1972.4928548502264
+Group C,Scotland,Scotland,True,1819.568775076232
+Group D,United States,United States,True,1869.9217147550105
+Group D,Paraguay,Paraguay,True,1863.712532301908
+Group D,Australia,Australia,True,1880.619705461054
+Group D,Türkiye,Turkey,True,1920.131935178274
+Group E,Germany,Germany,True,2003.5704364076312
+Group E,Curaçao,Curacao,False,1500.0
+Group E,Côte d'Ivoire,Ivory Coast,True,1780.428062926797
+Group E,Ecuador,Ecuador,True,1960.490364279245
+Group F,Netherlands,Netherlands,True,1981.282099317663
+Group F,Japan,Japan,True,1983.2849603265536
+Group F,Sweden,Sweden,True,1759.5261345286203
+Group F,Tunisia,Tunisia,True,1719.0316005399466
+Group G,Belgium,Belgium,True,1938.0348628502493
+Group G,Egypt,Egypt,True,1773.4548180498275
+Group G,IR Iran,Iran,True,1869.234668129898
+Group G,New Zealand,New Zealand,True,1725.5426023801265
+Group H,Spain,Spain,True,2123.7118560070194
+Group H,Cabo Verde,Cape Verde,True,1624.3541257531815
+Group H,Saudi Arabia,Saudi Arabia,True,1695.2710174770878
+Group H,Uruguay,Uruguay,True,1909.2991064058235
+Group I,France,France,True,2076.0376095575893
+Group I,Senegal,Senegal,True,1861.459188318529
+Group I,Iraq,Iraq,True,1751.5505311989568
+Group I,Norway,Norway,True,1921.89727128258
+Group J,Argentina,Argentina,True,2103.7626385837843
+Group J,Algeria,Algeria,True,1853.0934641652636
+Group J,Austria,Austria,True,1864.3347467275892
+Group J,Jordan,Jordan,True,1744.9504361352688
+Group K,Portugal,Portugal,True,2004.8951603355572
+Group K,Congo DR,DR Congo,True,1723.4864489023262
+Group K,Uzbekistan,Uzbekistan,True,1812.2370327149144
+Group K,Colombia,Colombia,True,1986.720315696281
+Group L,England,England,True,2033.808660968564
+Group L,Croatia,Croatia,True,1945.79102401711
+Group L,Ghana,Ghana,True,1616.069594370854
+Group L,Panama,Panama,True,1785.3020349659005
